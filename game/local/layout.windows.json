@@ -82,12 +82,12 @@
         "type": "dock-h"
       },
       "panels": [
+        "hierarchy",
         "console",
         "timeline",
         "inspector",
         "scene",
-        "assets",
-        "hierarchy"
+        "assets"
       ]
     }
   },
@@ -111,8 +111,8 @@
       "height": 439
     },
     "builder": {
-      "x": 1248,
-      "y": 171,
+      "x": 1127,
+      "y": 179,
       "width": 516,
       "height": 739
     }

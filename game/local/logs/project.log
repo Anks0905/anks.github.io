@@ -1,0 +1,131 @@
+2019-07-18T13:59:40.976Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-18T13:59:40.981Z - normal: checking language setting...
+2019-07-18T13:59:40.981Z - normal: Language: zh
+2019-07-18T13:59:42.683Z - success: protocol editor-framework registered
+2019-07-18T13:59:42.683Z - success: protocol app registered
+2019-07-18T13:59:42.683Z - success: protocol theme registered
+2019-07-18T13:59:42.683Z - success: protocol packages registered
+2019-07-18T13:59:42.684Z - success: protocol unpack registerred
+2019-07-18T13:59:42.684Z - success: protocol disable-commonjs registerred
+2019-07-18T13:59:42.951Z - normal: connected!
+2019-07-18T13:59:42.959Z - normal: Check project C:\Users\gaoweixiang\Desktop\新建文件夹\anks0905.github.io\game2
+2019-07-18T13:59:42.970Z - normal: Initializing project C:\Users\gaoweixiang\Desktop\新建文件夹\anks0905.github.io\game2
+2019-07-18T13:59:42.982Z - normal: Initializing Cocos2d
+2019-07-18T13:59:43.735Z - normal: Initializing Asset Database
+2019-07-18T13:59:43.791Z - success: protocol uuid registerred
+2019-07-18T13:59:43.791Z - success: protocol db registerred
+2019-07-18T13:59:43.791Z - success: protocol thumbnail registerred
+2019-07-18T13:59:43.791Z - normal: Loading editor/builtin packages
+2019-07-18T13:59:43.989Z - success: assets loaded
+2019-07-18T13:59:43.992Z - success: builder loaded
+2019-07-18T13:59:43.995Z - success: cocos-analytics loaded
+2019-07-18T13:59:43.999Z - success: console loaded
+2019-07-18T13:59:44.039Z - success: fb-instant-games loaded
+2019-07-18T13:59:44.044Z - success: hierarchy loaded
+2019-07-18T13:59:44.047Z - success: inspector loaded
+2019-07-18T13:59:44.049Z - success: keystore loaded
+2019-07-18T13:59:44.055Z - success: node-library loaded
+2019-07-18T13:59:44.057Z - success: package-asset loaded
+2019-07-18T13:59:44.059Z - success: preferences loaded
+2019-07-18T13:59:44.061Z - success: project-exporter loaded
+2019-07-18T13:59:44.078Z - success: project-importer loaded
+2019-07-18T13:59:44.080Z - success: project-settings loaded
+2019-07-18T13:59:44.084Z - success: ui-kit loaded
+2019-07-18T13:59:44.089Z - success: scene loaded
+2019-07-18T13:59:44.090Z - success: sprite-editor loaded
+2019-07-18T13:59:44.093Z - success: store loaded
+2019-07-18T13:59:44.098Z - success: timeline loaded
+2019-07-18T13:59:44.098Z - normal: Loading builtin packages
+2019-07-18T13:59:44.118Z - success: asset-db-debugger loaded
+2019-07-18T13:59:44.121Z - success: code-editor loaded
+2019-07-18T13:59:44.122Z - success: color-picker loaded
+2019-07-18T13:59:44.123Z - success: jsb-adapter loaded
+2019-07-18T13:59:44.126Z - success: package-manager loaded
+2019-07-18T13:59:44.738Z - success: qqplay-adapter loaded
+2019-07-18T13:59:44.743Z - success: sdkbox loaded
+2019-07-18T13:59:44.746Z - success: tester loaded
+2019-07-18T13:59:44.749Z - success: ui-grid loaded
+2019-07-18T13:59:44.753Z - success: ui-kit-preview-extra loaded
+2019-07-18T13:59:44.771Z - success: ui-kit-preview loaded
+2019-07-18T13:59:44.773Z - success: ui-tree loaded
+2019-07-18T13:59:44.774Z - success: weapp-adapter loaded
+2019-07-18T13:59:46.497Z - normal: Loading packages
+2019-07-18T13:59:46.507Z - normal: Watching packages
+2019-07-18T13:59:47.307Z - normal: Run Application
+2019-07-18T13:59:49.904Z - success: preview server running at http://localhost:7456
+2019-07-18T14:01:21.107Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\gaoweixiang\\Desktop",
+  "debug": false,
+  "dest": "C:\\Users\\gaoweixiang\\Desktop\\web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "7450de06-093c-4a01-b8ae-d2bb7aba0419"
+  ],
+  "sourceMaps": false,
+  "startScene": "7450de06-093c-4a01-b8ae-d2bb7aba0419",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "793a53af-0541-40",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\gaoweixiang\\Desktop\\新建文件夹\\anks0905.github.io\\game2",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2019-07-18T14:01:21.112Z - normal: Building C:\Users\gaoweixiang\Desktop\新建文件夹\anks0905.github.io\game2
+2019-07-18T14:01:21.112Z - normal: Destination C:\Users\gaoweixiang\Desktop\web-desktop
+2019-07-18T14:01:21.794Z - normal: Delete C:\Users\gaoweixiang\Desktop\web-desktop\**\*
+2019-07-18T14:01:24.996Z - normal: Start building assets
+2019-07-18T14:01:24.996Z - normal: Start spawn build-worker
+2019-07-18T14:01:25.854Z - normal: Finish spawn build-worker
+2019-07-18T14:01:25.855Z - normal: Start init build-worker
+2019-07-18T14:01:29.588Z - normal: Finish init build-worker
+2019-07-18T14:01:29.588Z - normal: Start build-assets in worker
+2019-07-18T14:01:30.133Z - normal: Finish build-assets in worker
+2019-07-18T14:01:30.145Z - normal: Finish building assets
+2019-07-18T14:01:30.168Z - normal: Start building plugin scripts
+2019-07-18T14:01:30.196Z - normal: Generating main.js from E:\软件\CocosCreator_v2.0.1\resources\static\build-templates\shares\main.js
+2019-07-18T14:01:30.234Z - normal: Generating html from E:\软件\CocosCreator_v2.0.1\resources\static\build-templates\web-desktop\template\index.html
+2019-07-18T14:01:30.258Z - normal: Built to "C:\Users\gaoweixiang\Desktop\web-desktop" successfully
